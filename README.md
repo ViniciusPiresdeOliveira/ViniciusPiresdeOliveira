@@ -1,4 +1,4 @@
-### Hey guys. Nice to meet you, my name is Vinicius 👋
+### Hello World. Nice to meet you, my name is Vinicius 👋
 
 <!--
 **ViniciusPiresdeOliveira/ViniciusPiresdeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
